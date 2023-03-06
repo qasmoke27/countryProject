@@ -1,0 +1,13 @@
+@media only screen and (max-width: 414px)  {
+    
+    body{
+        width: 100%;
+        background-color: aqua;
+    }
+
+
+    h1{
+        font-size: 1000px;
+    }
+
+}
